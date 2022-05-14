@@ -1,0 +1,9 @@
+td,th {
+    cursor: default!important;
+    white-space: pre;
+}
+
+body {
+    margin: 0;
+    padding: 16px;
+}
